@@ -1,5 +1,18 @@
+html{
+    background:#262626;
+}
+body{
+    background-color: #262626;
+}
 h1 {
-    font-size: 20px;
+    color: whitesmoke;
+    font-size: 30px;
     text-align: center;
     margin-top: 30px;
+}
+
+h2 {
+    font-size: 20px;
+    text-align: center;
+    color: brown;
 }
